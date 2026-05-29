@@ -1,0 +1,5 @@
+UNITY_IMAGE_BASE64_TRANSFER_MULTIPART_V1
+TARGET_PATH=txt-batch-transfers/PILIVideoTxt/PILI/場景破壞特效/場景破壞特效_火場.part102.txt
+FULL_TEXT_LENGTH=4194304
+PART_COUNT=1
+PART_001=txt-batch-transfers/PILIVideoTxt/PILI/場景破壞特效/場景破壞特效_火場.part102.part001.txt
