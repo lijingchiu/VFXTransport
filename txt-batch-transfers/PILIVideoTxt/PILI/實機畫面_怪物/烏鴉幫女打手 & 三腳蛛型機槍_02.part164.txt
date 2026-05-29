@@ -1,0 +1,5 @@
+UNITY_IMAGE_BASE64_TRANSFER_MULTIPART_V1
+TARGET_PATH=txt-batch-transfers/PILIVideoTxt/PILI/實機畫面_怪物/烏鴉幫女打手 & 三腳蛛型機槍_02.part164.txt
+FULL_TEXT_LENGTH=4194304
+PART_COUNT=1
+PART_001=txt-batch-transfers/PILIVideoTxt/PILI/實機畫面_怪物/烏鴉幫女打手 & 三腳蛛型機槍_02.part164.part001.txt
