@@ -1,0 +1,5 @@
+UNITY_IMAGE_BASE64_TRANSFER_MULTIPART_V1
+TARGET_PATH=txt-batch-transfers/PILIVideoTxt/PILI/實機畫面_怪物/菁英怪(韋德、柳) & 機械狼 & 棄天帝狀態(黑).part080.txt
+FULL_TEXT_LENGTH=4194304
+PART_COUNT=1
+PART_001=txt-batch-transfers/PILIVideoTxt/PILI/實機畫面_怪物/菁英怪(韋德、柳) & 機械狼 & 棄天帝狀態(黑).part080.part001.txt
